@@ -1,0 +1,19 @@
+{
+  "name": "which-hero",
+  "version": "0.0.0",
+  "description": "A vanity package for randomly selecting a fictional hero or villain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmykolyn/which-hero.git"
+  },
+  "author": "Jesse R Mykolyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmykolyn/which-hero/issues"
+  },
+  "homepage": "https://github.com/jrmykolyn/which-hero#readme"
+}
