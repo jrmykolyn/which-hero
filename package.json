@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrmykolyn/which-hero/issues"
   },
-  "homepage": "https://github.com/jrmykolyn/which-hero#readme"
+  "homepage": "https://github.com/jrmykolyn/which-hero#readme",
+  "dependencies": {
+    "sfco-js-utils": "^0.1.0"
+  }
 }
